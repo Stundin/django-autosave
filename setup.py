@@ -16,7 +16,7 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     install_requires=['Django>=2.0'],
-    python_requires='>=3.7,<4',
+    python_requires='>=3.6,<4',
     classifiers=[
         'Development Status :: 5 - Production',
         'License :: OSI Approved :: BSD License',
